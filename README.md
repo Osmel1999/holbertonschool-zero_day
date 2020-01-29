@@ -1,1 +1,1 @@
-This file is mandatory in all Holberton School project.
+In this project, we gona use Emacs comands.
